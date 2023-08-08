@@ -1,0 +1,25 @@
+{
+  "name": "chatgpt-chatbot",
+  "version": "1.0.0",
+  "description": "ChatGPT Chatbot With Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliasAfara/chatgpt-chatbot.git"
+  },
+  "author": "Elias Afara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliasAfara/chatgpt-chatbot/issues"
+  },
+  "homepage": "https://github.com/EliasAfara/chatgpt-chatbot#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "openai": "^3.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
